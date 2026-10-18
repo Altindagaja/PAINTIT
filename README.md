@@ -29,4 +29,4 @@ Use the following shortcuts to speed up your workflow:
 * **ESC** - Close the application
 
 # HOW TO RUN IT ? 
-It is quite simple. Just download the latest release from the releases section and whenever you need it, open it! 
+It is quite simple. Just download the (ready to use ".exe" file) latest release from the [Releaes Page](https://github.com/Altindagaja/PAINTIT/releases) and whenever you need it, open it! 
