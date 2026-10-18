@@ -5,7 +5,7 @@ A lightweight, fast, and modular screen annotation tool that allows you to draw,
 
 ## 🚀 Features
 * **Drag-and-Drop HUDs:** Transparent, stylish, closable and freely movable panels for tools, shapes, text, and media.
-* * **Main Presentation Elements:** You can draw things, erase them, and freely use different pens or shapes. There is even more!
+* **Main Presentation Elements:** You can draw things, erase them, and freely use different pens or shapes. There is even more!
 * **Live Lens (Magnifier):** A live magnifying glass tool for presentations that enlarges the screen area around your cursor by 2x.
 * **Smart Select & Cut (Scissors):** Select any drawn area on your screen, cut it, and instantly turn it into a freely movable, resizable floating image object.
 * **Advanced Text Boxes:** Spawn floating text boxes; edit font color, size, bold, and italic properties on the fly.
